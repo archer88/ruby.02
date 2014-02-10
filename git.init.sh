@@ -11,3 +11,12 @@ git mv README.rdoc README.md
 git commit -am "Improve the README"
 git remote add origin https://github.com/archer88/sample_app.git
 git push -u origin master
+
+# heroku create
+# git push heroku master
+# heroku run rake db:migrate
+
+# git push
+# git push heroku
+# heroku run rake db:migrate
+# heroku logs
