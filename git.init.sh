@@ -10,4 +10,4 @@ git commit -m "initial commit"
 git mv README.rdoc README.md
 git commit -am "Improve the README"
 git remote add origin https://github.com/archer88/sample_app.git
-$ git push -u origin master
+git push -u origin master
